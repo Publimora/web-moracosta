@@ -12,7 +12,7 @@ const Contactanos = () => {
     {
       id: 2,
       title: "Talleres",
-      img: "/assets/contactanos-02.jpg",
+      img: "/assets/contactanos-022.jpg",
     },
   ]
 
